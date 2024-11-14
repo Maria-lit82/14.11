@@ -1,0 +1,39 @@
+.head-top-right {
+    background-color: aqua;
+    height: 150px;
+}
+
+.greeting {
+    background-color: cadetblue;
+    height: 500px;
+}
+.my-container {
+    width: fit-content;
+    height: 500px;
+
+}
+.head-top {
+    width: 500px;
+    height: 500px;
+}
+.tg {
+    width: 25px;
+    height: 25px;
+    margin: 10px;
+}
+
+.head-top-right.tg {
+    width: 30px;
+    height: 30px;
+}
+
+.text-head {
+    width: 331px;
+    height: 186px;
+  
+    font-family: "Helvetica";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 150%;
+}
